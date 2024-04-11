@@ -14,5 +14,5 @@ From: {user_email}
     button = st.form_submit_button()
     if button:
         print ("I was pressed!")
-        send_email(message)
+        send_email(message.encode("utf8"))
         st.info("Your email was sent successfully")
