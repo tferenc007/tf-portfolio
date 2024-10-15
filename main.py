@@ -12,7 +12,7 @@ with col1:
 with col2:
     st.title("Tomasz Ferenc")
     content = """
-    Hi, I am Tomek! A highly skilled professional with a background in Management and Production Engineering, specializing in Logistics.
+    Hi, I am Tomek!!! A highly skilled professional with a background in Management and Production Engineering, specializing in Logistics.
     Possesses extensive experience in business intelligence development, data analysis, and process improvement.
     Currently expanding expertise by learning Python, alongside advanced SQL skills, data warehousing, and data engineering techniques.
     Proficient in SQL (MS SQL Server, Snowflake) and DBT, with advanced proficiency in Git for version control. Additionally, holds advanced proficiency in Tableau (First level of certification) and Alteryx Designer (Core and Advanced Certification), enabling the creation of sophisticated analytical solutions. Adept at collaborating with stakeholders to gather requirements and deliver tailored solutions. Demonstrated ability to thrive in international environments and effectively address business challenges.
